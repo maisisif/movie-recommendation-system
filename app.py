@@ -161,3 +161,4 @@ if st.button("Recommend"):
 
             col.image(img, caption=row["title"], use_container_width=True)
             col.caption(row["genres"])
+
